@@ -3,6 +3,8 @@
  * Creare una classe che contenga un metodo main ed un altro metodo chiamato “chiama”. 
  * Al metodo chiama dobbiamo passare un parametro di tipo String che rappresenta un numero di
  * telefono. Il metodo chiama deve stampare a schermo la frase: "Sto chiamando il numero: " seguita dal numero telefonico.
+ * 
+ * MODIFICA PER GIT-HUB
  */
 
 package esercizio5___2026_03_03;

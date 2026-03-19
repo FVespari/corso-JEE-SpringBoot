@@ -1,6 +1,8 @@
 /*
  * TRACCIA:
  * Scrivere il programma Elenco che stampa la lista della spesa, dove ogni articolo da comprare risiede sul proprio rigo.
+ * 
+ * MODIFICA PER GIT-HUB
  */
 
 package esercizio1___2026_03_03;
